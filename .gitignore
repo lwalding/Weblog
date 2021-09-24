@@ -2,3 +2,5 @@ node_modules/
 .cache/
 public
 .nova
+# Local Netlify folder
+.netlify
