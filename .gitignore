@@ -4,3 +4,5 @@ public
 .nova
 # Local Netlify folder
 .netlify
+.env.*
+.env
