@@ -1,9 +1,19 @@
+# Mac
+.DS_Store
 .nova
+
+# Node
 node_modules/
+jspm_packages/
+.npm
+*.log
+npm-debug.log*
+
+# Gatsby
 .cache/
-public
-.nova
-# Local Netlify folder
-.netlify
 .env.*
 .env
+public
+
+# Netlify
+.netlify
